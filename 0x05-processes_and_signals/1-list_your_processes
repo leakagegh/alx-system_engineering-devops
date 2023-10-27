@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Displays a list of Processes with hierarchy
-ps axjf
+# This script displays a list of currently running processes
+
+ps -auxf
